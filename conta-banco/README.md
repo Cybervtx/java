@@ -43,3 +43,16 @@ Compile o codigo com o seguinte comando:
 ```bash
 javac ContaTerminal.java
 ```
+
+### Passo 3: Execute o Projeto
+
+Execute o codigo compilado:
+
+```bash
+java ContaTerminal
+```
+
+## Tecnologias Utilizadas 🛠️
+- Java: Linguagem de programação utilizada para desenvolver o projeto.
+- Scanner: Classe do Java usada para capturar a entrada do usuário no terminal.
+
