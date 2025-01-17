@@ -52,6 +52,8 @@ Execute o codigo compilado:
 java ContaTerminal
 ```
 
+---
+
 ## Tecnologias Utilizadas 🛠️
 
 - **Java**: Linguagem de programação utilizada para desenvolver o projeto.
