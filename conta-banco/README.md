@@ -34,3 +34,12 @@ Clone o repositório para o seu computador:
 
 ```bash
 git clone https://github.com/seu-usuario/ContaBanco.git
+```
+
+### Passo 2: Compile o Projeto
+
+Compile o codigo com o seguinte comando:
+
+```bash
+javac ContaTerminal.java
+```
