@@ -53,6 +53,37 @@ java ContaTerminal
 ```
 
 ## Tecnologias Utilizadas 🛠️
-- Java: Linguagem de programação utilizada para desenvolver o projeto.
-- Scanner: Classe do Java usada para capturar a entrada do usuário no terminal.
+
+- **Java**: Linguagem de programação utilizada para desenvolver o projeto.
+- **Scanner**: Classe do Java usada para capturar a entrada do usuário no terminal.
+
+---
+
+## Contribuindo para o Projeto 🤝
+
+1. Faça um **fork** deste repositório.
+2. Crie uma nova **branch** para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Faça as alterações e **commit** (`git commit -am 'Adicionando nova feature'`).
+4. **Push** para a sua branch (`git push origin feature/nome-da-feature`).
+5. Abra um **pull request** para a branch `main`.
+
+---
+
+## Licença 📄
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## Agradecimentos 🙏
+
+Agradecemos por usar este projeto como parte do seu aprendizado sobre Java e manipulação de entrada de dados!
+
+---
+
+## Autor ✍️
+
+**cybervtx** | [Perfil no GitHub](https://github.com/cybervtx)
+
+
 
